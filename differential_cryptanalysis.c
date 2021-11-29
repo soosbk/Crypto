@@ -3,8 +3,6 @@
 #include<time.h>
 
 
-
-
 unsigned int re_ip(unsigned int ciphertext)
 {
 	unsigned char Perm[32] =
